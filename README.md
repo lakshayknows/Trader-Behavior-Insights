@@ -1,5 +1,5 @@
-```markdown
 # Trader Behavior Analysis Under Market Sentiment  
+```markdown
 Bitcoin Fear–Greed Index × Hyperliquid Trading Data
 
 ## Project Overview
@@ -87,7 +87,7 @@ The analysis focuses on behavioral dynamics rather than price prediction, with p
 ## Project Structure
 
 ```
-
+```
 Trader-Behavior-Sentiment-Analysis/
 │
 ├── trader_behavior_sentiment_analysis.ipynb
